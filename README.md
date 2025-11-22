@@ -4,22 +4,8 @@
 
 ---
 <p align="center">
-  <svg width="300" height="300" viewBox="0 0 300 300">
-    <defs>
-      <clipPath id="circleClip1">
-        <circle cx="150" cy="150" r="150"/>
-      </clipPath>
-    </defs>
-    <image
-      href="https://github.com/s4chinjha/s4chinjha/blob/main/superman-monochrome-3840x2160-18525%20(Edited).png?raw=true"
-      width="300"
-      height="300"
-      clip-path="url(#circleClip1)"
-      preserveAspectRatio="xMidYMid slice"
-    />
-  </svg>
+  <img src="https://avatars.githubusercontent.com/u/170951715?v=4" width="300">
 </p>
-
 
 ---
 
