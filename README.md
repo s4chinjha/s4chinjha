@@ -3,10 +3,23 @@
 </h1>
 
 ---
-
 <p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/assets/49420762/8cfa16b5-3d7d-4dc0-baad-44b7e4080f7f" width="250">
+  <svg width="300" height="300" viewBox="0 0 300 300">
+    <defs>
+      <clipPath id="circleClip1">
+        <circle cx="150" cy="150" r="150"/>
+      </clipPath>
+    </defs>
+    <image
+      href="https://github.com/s4chinjha/s4chinjha/blob/main/superman-monochrome-3840x2160-18525%20(Edited).png?raw=true"
+      width="300"
+      height="300"
+      clip-path="url(#circleClip1)"
+      preserveAspectRatio="xMidYMid slice"
+    />
+  </svg>
 </p>
+
 
 ---
 
@@ -33,7 +46,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,mongodb" />
 </p>
 
 ---
@@ -56,27 +69,21 @@
 🔹 **📅 Smart Timetable Planner**  
 A web app to create and manage student timetables easily.
 
-🔹 **🧠 Challenges Repo**  
-Python problem solving and DSA practice collection.
-
-🔹 **📘 PYQFort**  
-College exam paper management website.
-
 ---
 
 ## 📬 Connect with Me
 
 <p align="left">
 <a href="https://github.com/s4chinjha"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+<!-- <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a> -->
+<!-- <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a> -->
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/s4chinjha/s4chinjha/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
