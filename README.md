@@ -62,12 +62,6 @@ A web app to create and manage student timetables easily.
 
 ---
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Animation](https://github.com/s4chinjha/s4chinjha/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## ⚡ Fun Fact
 
 > I enjoy turning ideas into real products and coffee into code ☕💻  
