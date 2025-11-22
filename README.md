@@ -3,11 +3,6 @@
 </h1>
 
 ---
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/170951715?v=4" width="300">
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
