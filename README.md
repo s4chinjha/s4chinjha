@@ -107,7 +107,4 @@ CS sophomore at GGSIPU, Delhi with hands-on experience building full-stack web a
 ---
 
 ## GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4chinjha&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4chinjha&layout=compact&theme=default&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=s4chinjha&theme=default&hide_border=true)
