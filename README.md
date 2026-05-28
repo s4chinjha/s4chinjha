@@ -1,6 +1,6 @@
 # Sachin Kumar Jha
 
-**Full-Stack Developer | Open Source Contributor **
+**Full-Stack Developer | Open Source Contributor**
 
 CS sophomore at GGSIPU, Delhi with hands-on experience building full-stack web applications and contributing to open source. 10+ merged pull requests across multiple organizations including Jenkins, Valhalla, PYQFort, and ILUGD.
 
