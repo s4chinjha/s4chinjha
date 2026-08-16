@@ -31,18 +31,9 @@ REST API backend for product management with service, repository, and database l
 ### [Bharat Agrosmart](https://github.com/s4chinjha/Bharat-Agrosmart)
 AgriTech platform built to help farmers with crop-related information and advisory.
 
-Selected for the **Google HackSpace 2025 Offline Grand Finale**.
-
 ### [Snake Game](https://github.com/s4chinjha/Snake_Game)
 Java • Swing • AWT
 
 A simple interactive Snake game with scoring, collision detection, and sound.
-
-## Problem Solving
-
-**120+ LeetCode problems solved**
-
-[LeetCode](https://leetcode.com/u/sachinxjha/)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat&count=0)
