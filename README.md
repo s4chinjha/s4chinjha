@@ -18,20 +18,22 @@ I like building practical software, learning how systems work, and turning ideas
 
 ## Projects
 
-### Blog Platform Backend
+### [Blog Platform Backend](https://github.com/s4chinjha/blog_platform_backend)
 Java • Spring Boot • PostgreSQL • JWT
 
 A backend application with REST APIs, authentication, authorization, JPA/Hibernate, and database persistence.
 
-### E-Commerce API
+### [E-Commerce API](https://github.com/s4chinjha/ecom-proj)
 Java • Spring Boot • MySQL
 
 REST API backend for product management with service, repository, and database layers.
 
-### Bharat Agrosmart
+### [Bharat Agrosmart](https://github.com/s4chinjha/Bharat-Agrosmart)
 AgriTech platform built to help farmers with crop-related information and advisory.
 
-### Snake Game
+Selected for the **Google HackSpace 2025 Offline Grand Finale**.
+
+### [Snake Game](https://github.com/s4chinjha/Snake_Game)
 Java • Swing • AWT
 
 A simple interactive Snake game with scoring, collision detection, and sound.
@@ -40,9 +42,7 @@ A simple interactive Snake game with scoring, collision detection, and sound.
 
 **120+ LeetCode problems solved**
 
-## Connect
-
-[GitHub](https://github.com/s4chinjha) •
 [LeetCode](https://leetcode.com/u/sachinxjha/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat)
+
+![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat&count=0)
