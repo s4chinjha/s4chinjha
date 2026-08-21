@@ -23,6 +23,18 @@ Computer Science undergraduate and open-source contributor who enjoys building t
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub Stats](./profile/stats.svg)
+<p align="center">
+  <a href="https://github.com/s4chinjha">
+    <img height="200" src="./profile/stats.svg" />
+  </a>
+  <a href="https://github.com/s4chinjha">
+    <img height="200" src="./profile/top-langs.svg" />
+  </a>
+</p>
 
-[![Sachin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=s4chinjha&theme=github-compact&hide_border=true)](https://github.com/s4chinjha)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=s4chinjha&theme=github-compact&hide_border=true"
+    width="100%"
+  />
+</p>
