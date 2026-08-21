@@ -1,33 +1,125 @@
-name: Update GitHub Stats
+name: Update GitHub Profile Stats
 
+# Run automatically once every day
+# Also allow manual runs from the GitHub Actions page
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+# Prevent two stats updates from running at the same time
+concurrency:
+  group: github-profile-stats
+  cancel-in-progress: true
+
 jobs:
-  build:
+  generate-stats:
+    name: Generate GitHub Stats
     runs-on: ubuntu-latest
 
+    # The workflow needs permission to commit the generated SVG files
     permissions:
       contents: write
 
     steps:
+
+      # -------------------------------------------------------
+      # 1. Checkout the profile repository
+      # -------------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate GitHub Stats
+      # -------------------------------------------------------
+      # 2. Create the GitHub statistics card
+      # -------------------------------------------------------
+      - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&theme=default
+
+          options: >-
+            username=${{ github.repository_owner }}&
+            show_icons=true&
+            hide_rank=true&
+            include_all_commits=true&
+            theme=default&
+            hide_border=true
+
           path: profile/stats.svg
+
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Stats
+          # Use the latest 2.x version of the stats engine
+          core_version: latest
+
+          # Fail the workflow if the stats cannot be generated
+          fail_on_error: true
+
+      # -------------------------------------------------------
+      # 3. Create the Top Languages card
+      # -------------------------------------------------------
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+
+          options: >-
+            username=${{ github.repository_owner }}&
+            layout=compact&
+            langs_count=6&
+            theme=default&
+            hide_border=true
+
+          path: profile/top-langs.svg
+
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          core_version: latest
+
+          fail_on_error: true
+
+      # -------------------------------------------------------
+      # 4. Check that the generated files exist
+      # -------------------------------------------------------
+      - name: Verify generated cards
+        run: |
+          echo "Checking generated statistics..."
+
+          test -f profile/stats.svg
+          test -f profile/top-langs.svg
+
+          echo "✓ stats.svg generated"
+          echo "✓ top-langs.svg generated"
+
+      # -------------------------------------------------------
+      # 5. Show the generated files
+      # -------------------------------------------------------
+      - name: Show generated files
+        run: |
+          echo "Generated files:"
+          ls -lh profile/*.svg
+
+      # -------------------------------------------------------
+      # 6. Commit the generated cards
+      # -------------------------------------------------------
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          git commit -m "Update GitHub stats" || exit 0
+
+          git add profile/*.svg
+
+          # Only create a commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub profile stats"
+
+      # -------------------------------------------------------
+      # 7. Push the updated cards
+      # -------------------------------------------------------
+      - name: Push updated cards
+        run: |
           git push
