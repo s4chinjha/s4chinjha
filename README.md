@@ -1,6 +1,6 @@
 # Hey 👋, I'm Sachin Kumar Jha !
 
-Computer Science undergraduate and open-source contributor who enjoys building things and learning by doing.
+Learning things I didn’t know I needed to know.
 
 > Build it. Break it. Understand it. Build it better.
 
