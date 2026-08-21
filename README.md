@@ -1,39 +1,28 @@
-# Hi, I'm Sachin Kumar Jha 👋
+# Hey 👋, I'm Sachin Kumar Jha !
 
-Computer Science undergraduate interested in **Backend Development and Software Engineering**.
+Computer Science undergraduate and open-source contributor who enjoys building things and learning by doing.
 
-I like building practical software, learning how systems work, and turning ideas into working projects.
+> Build it. Break it. Understand it. Build it better.
 
-## Skills
+[![Email](https://img.shields.io/badge/Email-24cse.sachinkumarjha0321%40gtbit.ac.in-D14836?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachinkumarjha0321@gtbit.ac.in)
+[![X](https://img.shields.io/badge/X-@sachinxjha-000000?style=flat&logo=x&logoColor=white)](https://x.com/sachinxjha)
+![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile+Views&style=flat)
 
-**Languages:** Java, C++
+## 🛠️ Languages & Tools
 
-**Backend:** Spring Boot, Spring Security, REST APIs, JWT, JPA, Hibernate
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Databases:** PostgreSQL, MySQL
+## 📊 GitHub Stats
 
-**Tools:** Git, GitHub, Docker, GitHub Actions, Maven, Linux
+[![Sachin's GitHub Stats](https://github-stats-extended.vercel.app/api?username=s4chinjha&show_icons=true&hide_border=true)](https://github.com/s4chinjha)
 
-**Core:** DSA, OOP, Problem Solving
-
-## Projects
-
-### [Blog Platform Backend](https://github.com/s4chinjha/blog_platform_backend)
-Java • Spring Boot • PostgreSQL • JWT
-
-A backend application with REST APIs, authentication, authorization, JPA/Hibernate, and database persistence.
-
-### [E-Commerce API](https://github.com/s4chinjha/ecom-proj)
-Java • Spring Boot • MySQL
-
-REST API backend for product management with service, repository, and database layers.
-
-### [Bharat Agrosmart](https://github.com/s4chinjha/Bharat-Agrosmart)
-AgriTech platform built to help farmers with crop-related information and advisory.
-
-### [Snake Game](https://github.com/s4chinjha/Snake_Game)
-Java • Swing • AWT
-
-A simple interactive Snake game with scoring, collision detection, and sound.
-
-![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat&count=0)
+[![Sachin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=s4chinjha&theme=github-compact&hide_border=true)](https://github.com/s4chinjha)
