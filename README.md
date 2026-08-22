@@ -4,7 +4,6 @@
 
 Learning things I didn’t know I needed to know.
 
-[![Email](https://img.shields.io/badge/Email-24cse.sachinkumarjha0321%40gtbit.ac.in-D14836?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachinkumarjha0321@gtbit.ac.in)
 [![X](https://img.shields.io/badge/X-@sachinxjha-000000?style=flat&logo=x&logoColor=white)](https://x.com/sachinxjha)
 ![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile+Views&style=flat)
 
