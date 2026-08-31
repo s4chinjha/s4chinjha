@@ -4,7 +4,7 @@
 
 Learning things I didn’t know I needed to know.
 
-[![X](https://img.shields.io/badge/X-@s4chinjha-000000?style=flat)](https://x.com/s4chinjha)
+<!-- [![X](https://img.shields.io/badge/X-@-000000?style=flat)](https://x.com/) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile+Views&style=flat)
 
 ## 🛠️ Languages & Tools
