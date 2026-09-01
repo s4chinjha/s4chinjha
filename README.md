@@ -1,4 +1,4 @@
-# Hey 👋, I'm Sachin Kumar Jha !
+# Hey 👋🏼, I'm Sachin Kumar Jha !
 
 
 
@@ -26,14 +26,7 @@ Learning things I didn’t know I needed to know.
   <a href="https://github.com/s4chinjha">
     <img height="200" src="./profile/stats.svg" />
   </a>
-  <a href="https://github.com/s4chinjha">
+  <!-- <a href="https://github.com/s4chinjha">
     <img height="200" src="./profile/top-langs.svg" />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=s4chinjha&theme=github-compact&hide_border=true"
-    width="100%"
-  />
+  </a> -->
 </p>
