@@ -44,12 +44,3 @@ a CS student, full-stack developer, open-source enthusiast, and community builde
 * 🎧 Usually coding with music on
 * 🧠 I like understanding *why* things work
 * 📚 Always learning something new
-
-## 🌐 Find Me Around the Internet
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkrjha/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachinkumarjha0321@gtbit.ac.in)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/realsachinjha)
-
-
-
