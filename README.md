@@ -1,6 +1,6 @@
 # Hey 👋🏼, I'm Sachin Kumar Jha!
 
-A CS student, full-stack developer, open-source enthusiast, and community builder.
+a CS student, full-stack developer, open-source enthusiast, and community builder.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha\&label=Profile+Views\&style=flat)
 
@@ -24,7 +24,7 @@ A CS student, full-stack developer, open-source enthusiast, and community builde
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -47,16 +47,9 @@ A CS student, full-stack developer, open-source enthusiast, and community builde
 
 ### find me around the internet
 
-<a href="https://www.linkedin.com/in/sachinkrjha/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:24cse.sachin.kumar.jha0321@gtbit.ac.in">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
-<a href="https://x.com/realsachinjha">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logoColor=white" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkrjha/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachin.kumar.jha0321@gtbit.ac.in)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/realsachinjha)
 
 
 
