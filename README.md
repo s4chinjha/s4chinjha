@@ -45,10 +45,10 @@ a CS student, full-stack developer, open-source enthusiast, and community builde
 * 🧠 I like understanding *why* things work
 * 📚 Always learning something new
 
-### find me around the internet
+## 🌐 Find Me Around the Internet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkrjha/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachin.kumar.jha0321@gtbit.ac.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:24cse.sachinkumar.jha0321@gtbit.ac.in)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x.com/realsachinjha)
 
 
