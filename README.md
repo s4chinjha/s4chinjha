@@ -39,6 +39,7 @@ a CS student, full-stack developer, open-source enthusiast, and community builde
 
 ## Hobbies & Fun Facts
 
+* ⚽ Love playing football
 * 🐧 Linux enthusiast & daily user
 * 🎮 Gaming when I'm not debugging
 * 🎧 Usually coding with music on
