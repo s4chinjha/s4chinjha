@@ -1,22 +1,30 @@
-# Hey 👋🏼, I'm Sachin Kumar Jha !
+# Hey 👋🏼, I'm Sachin Kumar Jha!
 
+A CS student, full-stack developer, open-source enthusiast, and community builder.
 
+![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha\&label=Profile+Views\&style=flat)
 
-Learning things I didn’t know I needed to know.
+## What I Do
 
-<!-- [![X](https://img.shields.io/badge/X-@-000000?style=flat)](https://x.com/) -->
-![Profile Views](https://komarev.com/ghpvc/?username=s4chinjha&label=Profile+Views&style=flat)
+* **Build:** Full-stack projects with Java, Spring Boot, JavaScript, HTML/CSS & PostgreSQL
+* **Open Source:** Learning, contributing, and exploring open-source projects
+* **Community:** Organizing, volunteering, and participating in developer communities and events
+
+## Communities
+
+* [**GitTogether Delhi NCR**](https://www.meetup.com/gittogether-delhi/) - Volunteer contributing to developer meetups, workshops, and community activities
+* [**ILUG-D**](https://linuxdelhi.org/) - Volunteer with the Linux & FOSS community, helping with meetups and open-source activities
 
 ## 🛠️ Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -28,3 +36,27 @@ Learning things I didn’t know I needed to know.
     <img height="200" src="./profile/top-langs.svg" />
   </a> -->
 </p>
+
+## Hobbies & Fun Facts
+
+* 🐧 Linux enthusiast & daily user
+* 🎮 Gaming when I'm not debugging
+* 🎧 Usually coding with music on
+* 🧠 I like understanding *why* things work
+* 📚 Always learning something new
+
+### find me around the internet
+
+<a href="https://www.linkedin.com/in/sachinkrjha/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:24cse.sachin.kumar.jha0321@gtbit.ac.in">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<a href="https://x.com/realsachinjha">
+  <img src="https://img.shields.io/badge/X-000000?style=flat&logoColor=white" />
+</a>
+
+
+
+
