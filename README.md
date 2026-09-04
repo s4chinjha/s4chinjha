@@ -2,6 +2,10 @@
 
 <h3 align="center">Building, contributing, and figuring things out.</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat" />
+</p>
+
 ## What I'm up to
 
 - 👨‍💻 Building backend systems with **Java & Spring Boot**
