@@ -1,27 +1,25 @@
 <h1 align="center">Hey! I'm Sachin Kumar Jha 👋🏼</h1>
 
-<h3 align="center">Building, contributing, and figuring things out.</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=s4chinjha&label=Profile%20Views&style=flat" />
 </p>
 
 ## What I'm up to
 
-- 👨‍💻 Building backend systems with **Java & Spring Boot**
-- 🐙 Contributing to **Open Source** - 15+ merged PRs
-- 👥 Building and contributing to **developer communities**
-- 🐧 Daily driving **Fedora**
-- ⚽ Love playing football
-- 🎤 Love attending meetups & developer events
+- 👨‍💻 Building backend systems
+- 🐙 Contributing to **Open Source**
+- 👥 Contributing to **developer communities**
+- 🐧 I use fedora btw!!
+- ⚽ Always up for a football game
 
 ### I'm working with
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,spring,postgres,mysql,docker&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,go,spring,postgres,mysql,docker,git&perline=9" />
 
 ### My tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40px"/>
+
 ## 📊 GitHub Stats
 
 <p align="center">
