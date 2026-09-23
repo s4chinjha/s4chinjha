@@ -25,3 +25,9 @@
 <p align="center">
   <img height="200" src="./profile/stats.svg" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=s4chinjha" alt="GitHub Streak" />
+</p>
